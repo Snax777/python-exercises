@@ -1,0 +1,1 @@
+print([2 ** integer for integer in range(9)])
